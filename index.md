@@ -8,7 +8,7 @@ Bienvenue dans mon espace dédié aux projets perso !
 
 ---
 
-## 🍳 **Préparation de Recettes de Noël**  
+## 🥞 **Préparation de Recettes de Noël**  
 
 Recettes simples, savoureuses et petits budgets pour les fêtes.  
 
@@ -18,3 +18,10 @@ Recettes simples, savoureuses et petits budgets pour les fêtes.
 ---
 
 ---
+## 💽 **DATA-SCIENCE**  
+
+Travaux de Data-Sciences/Machine Learning  
+
+👉 **Boston criminalité :**
+[Analyse Boston](Wiki_propre/Data_Science/Analyse_Boston.md)
+
