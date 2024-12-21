@@ -63,4 +63,4 @@ ___
 - side project: créa App Django
 - side project: Blockchaine et Solidity
 - IA embarquée sur Raspeberry> Whyspered solution
-- Bot de Trad sur Hyperliquidity
+- Bot de Trad sur Hyperliquid
