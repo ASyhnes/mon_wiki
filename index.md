@@ -51,8 +51,16 @@ Vous avez déjà vu le cv d'un futur mouton à 5 pates?
 👉 [CV/Lettres de recommandations](Pro/Papiers_pro)
 
 ___
-## A venir:
+## A venir (WIP):
 
 - Veille automatisée IA/Blockchaine > Du rasperry au bot discord en passant par un suvi RSS et une automatisation du compte rendu
+- [Veille](Veille/Automatisation_Veille)
+	- partager les chaines Youtubes: 
+		- phylo> compte rendu général 
+		- esprit critique
+		- finance
+		- crytpo
 - side project: créa App Django
 - side project: Blockchaine et Solidity
+- IA embarquée sur Raspeberry> Whyspered solution
+- Bot de Trad sur Hyperliquidity
