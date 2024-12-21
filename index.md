@@ -1,8 +1,4 @@
 
----
-title: Bienvenue sur le Wiki personnel de David Chardon
-layout: default
----
 
 #  👁‍🗨 **Bienvenue sur le Wiki personnel de David Chardon
 
