@@ -23,7 +23,7 @@ Recettes simples, savoureuses et petits budgets pour les fêtes.
 Travaux de Data-Sciences/Machine Learning  
 
 👉 **Boston criminalité :**
-[Analyse Boston](Wiki_propre/Data_Science/Analyse_Boston.md)
+[Analyse Boston](Data_Science/Analyse_boston)
 
 ---
 
@@ -35,6 +35,7 @@ Travaux de Data-Sciences/Machine Learning
 🦄**Mon Assess First :** 
 Une analyse de personnalité dans le cadre du monde du travail  
 Est ce que ça vaut le coup de m'embaucher? 
+
 🧲 Spoiler alert: **OUI**
 👉 [Assess First](https://my.assessfirst.com/public/profile/wvqj2aow-david-chardon?lang=fr-FR)
 
@@ -45,6 +46,7 @@ Pas vraiment très très à jours (Il va falloir y remédier! )
 
 📜 **Mon Linkedin :**
 Vous avez déjà vu le cv d'un futur mouton à 5 pates? 
+
 🧲 Spoiler alert: **Maintenant, OUI**
 👉 [CV/Lettres de recommandations](Wiki_propre/Pro/Papiers_pro)
 
