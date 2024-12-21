@@ -1,6 +1,6 @@
 
 
-#  👁‍🗨 **Bienvenue sur le Wiki personnel de David Chardon**
+# 👁‍🗨 **Bienvenue sur le Wiki personnel de David Chardon**
 
 Bienvenue dans mon espace dédié aux projets perso !
 
