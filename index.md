@@ -48,6 +48,11 @@ Pas vraiment très très à jours (Il va falloir y remédier! )
 Vous avez déjà vu le cv d'un futur mouton à 5 pates? 
 
 🧲 Spoiler alert: **Maintenant, OUI**
-👉 [CV/Lettres de recommandations](Wiki_propre/Pro/Papiers_pro)
+👉 [CV/Lettres de recommandations](Pro/Papiers_pro)
 
 ___
+## A venir:
+
+- Veille automatisée IA/Blockchaine > Du rasperry au bot discord en passant par un suvi RSS et une automatisation du compte rendu
+- side project: créa App Django
+- side project: Blockchaine et Solidity
