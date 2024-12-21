@@ -1,9 +1,9 @@
 ⏪ **Back**
 
-![[CV Dev Chardon David.pdf]]
+![CV Dev Chardon David.pdf]
 
 
 
-![[Lettre recommandation David.pdf]]
+![Lettre recommandation David.pdf]
 
-![[Lettre de recommandation david.jpg]]
+![Lettre de recommandation david.jpg]
