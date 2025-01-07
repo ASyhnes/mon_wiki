@@ -1,8 +1,8 @@
 # 👁‍🗨 **Bienvenue sur le Wiki personnel de David Chardon** 👁‍🗨  
 
-Bienvenue dans mon espace dédié aux **projets perso, Sides-projects** et **PROJETS d'apprentissages**
-**NOTE: *cette page, encore jeune, est à l'état d'ébauche et en perpétuelle évolution. Elle est mise à jours toutes les deux semaines*.**
-Pour le moment, cette pages est essentiellement faites de simple liste, mais elle évolue au fil du temps pour devenir un site web à part entière, et détaillera chaque points (les procès utilisés, les résultats obtenus...).
+**Bienvenue dans mon espace dédié aux projets personnels, side-projects et projets d’apprentissage.**
+
+*Note : cette page, encore jeune, est à l’état d’ébauche et en perpétuelle évolution. Elle est mise à jour toutes les deux semaines. Pour le moment, cette page est essentiellement composée de simples listes, mais elle évolue au fil du temps pour devenir un site web à part entière et détaillera chaque point (les processus utilisés, les résultats obtenus…).*
 
 
 ---
