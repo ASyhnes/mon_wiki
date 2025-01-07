@@ -1,6 +1,7 @@
 WIP
 
-Du rasperry Py au compte rendu, en passant par le bot discord
+Du Raspberry Py au compte rendu, en passant par le bot discord
+- faire un texte de dév du projet
 
 
 le résultat: 
