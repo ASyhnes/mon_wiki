@@ -8,19 +8,9 @@ Bienvenue dans mon espace dédié aux projets perso !
 
 ---
 
-## 🥞 **Préparation de Recettes de Noël**  
-
-Recettes simples, savoureuses et petits budgets pour les fêtes.  
-
-👉 **Accédez directement aux recettes :**  
-[Recettes de Noël](Recette_Noël/Recettes de Noël.md)
-
----
-
----
 ## 💽 **DATA-SCIENCE**  
 
-Travaux de Data-Sciences/Machine Learning  
+Travaux de Data-Sciences/Machine Learning : 
 
 👉 **Boston criminalité :**
 [Analyse Boston](Data_Science/Analyse_boston)
@@ -64,3 +54,10 @@ ___
 - side project: Blockchaine et Solidity
 - IA embarquée sur Raspeberry> Whyspered solution
 - Bot de Trad sur Hyperliquid
+- site web: 
+	- www.modelers.fr 
+	- www.david-chardon.fr > doit être refondé complétement (Django )
+- Classement ultra-dimensionnel: un projet de classement des grands nombres via jupyter-notebook dans des espaces ce repliant sur eux même.
+- Python> de la vidéo à la 3D
+- fish's Legion> projet de jeux de cartes tokenisés
+- 
