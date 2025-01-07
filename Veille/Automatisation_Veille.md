@@ -14,10 +14,10 @@ Du Raspberry Py au compte rendu, en passant par le bot discord
 
 le résultat: 
 
-** Veille Philo de la data, esprit critique et esprit scientifique **
+**Veille Philo de la data, esprit critique et esprit scientifique**
 
 - [Une IA peut elle nous mentir et nous manipuler?](Quand%20les%20IA%20nous%20manipulent..md)
-- [Tous les raisonnements fallacieux en 10 minutes.](Veille_philo/Tous%les%raisonnements%fallacieux%en%10%minutes)
+- [Tous les raisonnements fallacieux en 10 minutes.](Veille_philo/Tous_les_raisonnements_fallacieux_en_10_minutes)
 - [Le Biais et le Bruit](Le%biais%et%le%Bruit)
 - [La Régression vers la Moyenne](La%Régression%vers%la%Moyenne)
 
