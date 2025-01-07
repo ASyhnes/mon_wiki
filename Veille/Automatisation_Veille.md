@@ -16,8 +16,8 @@ le résultat:
 
 **Veille Philo de la data, esprit critique et esprit scientifique**
 
-- [Une IA peut elle nous mentir et nous manipuler?](Quand%20les%20IA%20nous%20manipulent..md)
+- [Une IA peut elle nous mentir et nous manipuler?](Veille_philo/Quand_les_IA_nous_manipulent)
 - [Tous les raisonnements fallacieux en 10 minutes.](Veille_philo/Tous_les_raisonnements_fallacieux_en_10_minutes)
-- [Le Biais et le Bruit](Le%biais%et%le%Bruit)
-- [La Régression vers la Moyenne](La%Régression%vers%la%Moyenne)
+- [Le Biais et le Bruit](Veille_philo/Le_Biais_et_le_Bruit)
+- [La Régression vers la Moyenne](Veille_philo/La_Régression_vers_la_Moyenne)
 
