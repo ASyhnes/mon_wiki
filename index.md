@@ -13,7 +13,7 @@ Travaux de **Data-Science** et **Machine Learning** :
 
 👉 **Boston criminalité :**  
 Analyse approfondie des données liées à la criminalité à Boston.  
-[🔗 Analyse Boston](Data_Science/Analyse_boston)  
+[ Analyse Boston](Data_Science/Analyse_boston)  
 
 ---
 
@@ -27,11 +27,10 @@ Est-ce que ça vaut le coup de m'embaucher ?
 👉 [ Assess First](https://my.assessfirst.com/public/profile/wvqj2aow-david-chardon?lang=fr-FR)  
 
 ### #️⃣ **Mon LinkedIn :**  
-Pas vraiment très à jour... (Il va falloir y remédier ! 🛠️)  
 👉  [LinkedIn](https://www.linkedin.com/in/chardon-david-730030104/)  
 
 ### 📜 **Mon CV et Lettres de Recommandations :**  
-Vous avez déjà vu le CV d'un futur mouton à 5 pattes ? 🐑✨  
+Vous avez déjà vu le CV d'un futur mouton à 5 pattes ?   
 
 🧲 **Spoiler alert:** **Maintenant, OUI**  
 👉 [CV/Lettres de recommandations](Pro/Papiers_pro)  
