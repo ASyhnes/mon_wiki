@@ -20,4 +20,5 @@ le résultat:
 - [Tous les raisonnements fallacieux en 10 minutes.](Veille_philo/Tous_les_raisonnements_fallacieux_en_10_minutes)
 - [Le Biais et le Bruit](Veille_philo/Le_Biais_et_le_Bruit)
 - [La Régression vers la Moyenne](Veille_philo/La_Régression_vers_la_Moyenne)
+- [Reconnaitre sa propre incompétence](Veille_philo/Reconnaitre_sa_propre_incompétence)
 
