@@ -1,11 +1,13 @@
 # 👁‍🗨 **Bienvenue sur le Wiki personnel de David Chardon** 👁‍🗨  
 
 Bienvenue dans mon espace dédié aux **projets perso, Sides-projects** et **PROJETS d'apprentissages**
-**NOTE: *cette page, encore jeune, est à l'état d'ébauche et en perpétuelle évolution. Elle est mise à jours toutes les deux semaines*
+**NOTE: *cette page, encore jeune, est à l'état d'ébauche et en perpétuelle évolution. Elle est mise à jours toutes les deux semaines*.
+Pour le moment, cette pages est essentiellement faites de simple liste, mais elle évolue au fil du temps pour devenir un site web à part entière, et détaillera chaque points (les proces utilisé, les résultats obtenus...).
+
 
 ---
 
-## 💽 **DATA-SCIENCE** 📊  
+## 📊  **DATA-SCIENCE**  
 
 Travaux de **Data-Science** et **Machine Learning** :  
 
@@ -15,24 +17,24 @@ Analyse approfondie des données liées à la criminalité à Boston.
 
 ---
 
-## 🧾 **Points-Pro** 💼  
+## 🧾 **Points-Pro**   
 
 ### 🦄 **Mon Assess First :**  
 Une analyse de personnalité adaptée au monde du travail.  
 Est-ce que ça vaut le coup de m'embaucher ?  
 
 🧲 **Spoiler alert:** **OUI**  
-👉 [🔗 Assess First](https://my.assessfirst.com/public/profile/wvqj2aow-david-chardon?lang=fr-FR)  
+👉 [ Assess First](https://my.assessfirst.com/public/profile/wvqj2aow-david-chardon?lang=fr-FR)  
 
 ### #️⃣ **Mon LinkedIn :**  
 Pas vraiment très à jour... (Il va falloir y remédier ! 🛠️)  
-👉 [🔗 LinkedIn](https://www.linkedin.com/in/chardon-david-730030104/)  
+👉  [LinkedIn](https://www.linkedin.com/in/chardon-david-730030104/)  
 
 ### 📜 **Mon CV et Lettres de Recommandations :**  
 Vous avez déjà vu le CV d'un futur mouton à 5 pattes ? 🐑✨  
 
 🧲 **Spoiler alert:** **Maintenant, OUI**  
-👉 [🔗 CV/Lettres de recommandations](Pro/Papiers_pro)  
+👉 [CV/Lettres de recommandations](Pro/Papiers_pro)  
 
 ---
 
@@ -40,7 +42,7 @@ Vous avez déjà vu le CV d'un futur mouton à 5 pattes ? 🐑✨
 
 ### 📡 **Veille automatisée IA/Blockchain :**  
 - Du **Raspberry Pi** au bot **Discord** en passant par un suivi **RSS** et une automatisation du compte rendu.  
-👉 [🔗 Automatisation Veille](Veille/Automatisation_Veille)  
+👉 [ Automatisation Veille](Veille/Automatisation_Veille)  
 
 **Champs d'intérêt :**  
 - 🎓 **Philosophie :** Compte rendu général.  
@@ -57,14 +59,14 @@ Vous avez déjà vu le CV d'un futur mouton à 5 pattes ? 🐑✨
 	- creer un wallet sur etherum (REMIX/SOLIDiTY)
 	- creer une crypto pour comprendre les grandes lignes
 - 🤖 **IA embarquée sur Raspberry Pi :** Whispered Solution. 
-	-  🧠 **Projet Jarvis :**  
+	-   **Projet Jarvis :**  
 		Un assistant **LLM** embarqué sur **Raspberry Pi portable** :  
 		Du **jouet intelligent** à l'**assistant personnel complet** ? 
 - 🌍 **Bot de trading sur Hyperliquid.**  
 	- explorer l'API de Hyperliquid pour faire un bot de trading automatiser et gérant un portefeuille avec un backtest efficace à 16% sur les 3 dernières années
 - 🌐 **Sites Web :**  
-	- [🔗 www.modelers.fr](#)  *(A remettre à jour>projet de jeu vidéo associatif en pause)*
-	- [🔗 www.david-chardon.fr](#) *(à refondre complètement avec Django)* 
+	- [ www.modelers.fr](#)  *(A remettre à jour>projet de jeu vidéo associatif en pause)*
+	- [ www.david-chardon.fr](#) *(à refondre complètement avec Django)* 
 - 📊 **Classement Ultra-Dimensionnel :**  
 	Un projet de classement des grands nombres via **Jupyter Notebook** dans des espaces se repliant sur eux-mêmes.  
 - 🎥 **Python - De la vidéo à la 3D :**  
@@ -76,4 +78,4 @@ Vous avez déjà vu le CV d'un futur mouton à 5 pattes ? 🐑✨
 
 ---
 
-###  **Ce wiki est en constante évolution. Restez connectés pour suivre les prochains projets passionnants !**   
+###  **Ce wiki est en constante évolution. Restez connectés pour suivre les prochains projets !**   
