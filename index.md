@@ -1,6 +1,7 @@
 # 👁‍🗨 **Bienvenue sur le Wiki personnel de David Chardon** 👁‍🗨  
 
-Bienvenue dans mon espace dédié aux **projets perso** ! 🚀  
+Bienvenue dans mon espace dédié aux **projets perso, Sides-projects** et **PROJETS d'apprentissages**
+**NOTE: *cette page, encore jeune, est à l'état d'ébauche et en perpétuelle évolution. Elle est mise à jours toutes les deux semaines*
 
 ---
 
@@ -75,4 +76,4 @@ Vous avez déjà vu le CV d'un futur mouton à 5 pattes ? 🐑✨
 
 ---
 
-### ✨ **Ce wiki est en constante évolution. Restez connectés pour suivre les prochains projets passionnants !** 🚀  
+###  **Ce wiki est en constante évolution. Restez connectés pour suivre les prochains projets passionnants !**   
