@@ -15,6 +15,10 @@ Travaux de **Data-Science** et **Machine Learning** :
 Analyse approfondie des données liées à la criminalité à Boston.  
 [ Analyse Boston](Data_Science/Analyse_boston)  
 
+
+👉Analyse OMS: 
+développer un model de prédiction sur l'espérance de vie et études de la performance de modèle de random Forest.
+https://colab.research.google.com/drive/1CWYUSqRy75Q1wAwhhSF2C8lAkzjlrggx
 ---
 
 ## 🧾 **Points-Pro**   
@@ -66,6 +70,7 @@ Vous avez déjà vu le CV d'un futur mouton à 5 pattes ?
 - 🌐 **Sites Web :**  
 	- [ www.modelers.fr](#)  *(A remettre à jour>projet de jeu vidéo associatif en pause)*
 	- [ www.david-chardon.fr](#) *(à refondre complètement avec Django)* 
+	- serveur web pour accueillir mes projets/site/bots
 - 📊 **Classement Ultra-Dimensionnel :**  
 	Un projet de classement des grands nombres via **Jupyter Notebook** dans des espaces se repliant sur eux-mêmes.  
 - 🎥 **Python - De la vidéo à la 3D :**  
