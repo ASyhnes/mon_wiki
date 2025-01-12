@@ -18,7 +18,9 @@ Analyse approfondie des données liées à la criminalité à Boston.
 
 👉Analyse OMS: 
 développer un model de prédiction sur l'espérance de vie et études de la performance de modèle de random Forest.
-https://colab.research.google.com/drive/1CWYUSqRy75Q1wAwhhSF2C8lAkzjlrggx
+
+[https://colab.research.google.com/drive/1CWYUSqRy75Q1wAwhhSF2C8lAkzjlrggx]
+
 ---
 
 ## 🧾 **Points-Pro**   
