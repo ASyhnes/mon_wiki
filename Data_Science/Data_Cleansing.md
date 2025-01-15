@@ -6,6 +6,7 @@
 **Date :** Janvier 2025  
 
 [← Retour à la base du wiki](https://asyhnes.github.io/mon_wiki/)  
+
 [cours complet](Data_Science/Cours_data_cleasing)
 
 
