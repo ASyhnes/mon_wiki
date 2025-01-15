@@ -8,6 +8,7 @@
 [← Retour à la base du wiki](https://asyhnes.github.io/mon_wiki/)  
 
 [cours complet](Data_Science/Cours_data_cleasing)
+[TP de démo](https://colab.research.google.com/drive/1qyRL8pkwhtaQaI4Q3Qdgg1M7YXk9G4g1)
 
 
 ---
