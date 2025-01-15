@@ -4,6 +4,13 @@ Dispensé par Monsieur Mbiguidi en section DATASCIENCE, école Epsi, Nantes:
 
 Exercice/Contrôle sur Dataset Libre. 
 
+
+---
+[← Retour à la base du wiki](https://asyhnes.github.io/mon_wiki/)
+
+---
+
+
 # Régression linéaire multiple: analyse du dataset Boston Housing
 
 Nous allons utiliser le dataset Boston Housing, qui contient des informations sur des maisons à Boston. Ces données faisaient initialement partie du Machine Learning Repository de l'UCI, mais ont été retirées. Elles étaient également accessibles via la bibliothèque scikit-learn, mais cette méthode deviendra obsolète. Nous allons donc les récupérer à partir de ce lien : [http://lib.stat.cmu.edu/datasets/boston](http://lib.stat.cmu.edu/datasets/boston).

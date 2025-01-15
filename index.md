@@ -9,7 +9,7 @@
 
 ## 📊  **DATA-SCIENCE**  
 
-Travaux de **Data-Science** et **Machine Learning** :  
+### Travaux de **Data-Science** et **Machine Learning** :  ###
 
 👉 **Boston criminalité :**  
 Analyse approfondie des données liées à la criminalité à Boston.  
@@ -20,6 +20,12 @@ Analyse approfondie des données liées à la criminalité à Boston.
 développer un model de prédiction sur l'espérance de vie et études de la performance de modèle de Random Forest.
 
 [Analyse OMS](https://colab.research.google.com/drive/1CWYUSqRy75Q1wAwhhSF2C8lAkzjlrggx)
+
+### Cours et prises de Notes: 
+
+- [data cleaning](Data_Science/Data_Cleansing)
+- 
+
 
 
 ---
