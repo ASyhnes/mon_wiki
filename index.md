@@ -43,6 +43,12 @@ Vous avez déjà vu le CV d'un futur mouton à 5 pattes ?
 🧲 **Spoiler alert:** **Maintenant, OUI**  
 👉 [CV/Lettres de recommandations](Pro/Papiers_pro)  
 
+# 🧠 Reconnaissance de la Qualité de Travailleur Handicapé (RQTH)
+
+J'ai une **reconnaissance de travailleur handicapé**. Cependant, non seulement celle-ci ne nécessite **aucun aménagement de poste**, mais je considère qu'elle représente une **force** et un **atout précieux** dans mon approche des projets professionnels: 
+Il me permet d’être **proactif** dans la collecte et l’analyse d’informations, une compétence clé pour un futur **data scientist** notamment. Grâce à cette caractéristique, je suis capable de m'adapter rapidement, de rester curieux, et d'apporter des solutions innovantes à des problématiques complexes.
+C'est la raison pour laquelle j'ai choisi de m'orienter dans le domaine du développement informatique.
+
 ---
 
 ## 🛠️ **À venir (WIP)** 🛠️  
