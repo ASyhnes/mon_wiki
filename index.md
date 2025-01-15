@@ -24,7 +24,12 @@ développer un model de prédiction sur l'espérance de vie et études de la per
 ### Cours et prises de Notes: 
 
 - [data cleansing](Data_Science/Data_Cleansing)
-- 
+
+### Projet Personnel: 
+📊 **Classement Ultra-Dimensionnel :**  
+Un projet de classement des grands nombres via **Jupyter Notebook** dans des espaces se repliant sur eux-mêmes.  
+-  [Classement Ultra D](https://colab.research.google.com/drive/1KqIq4x4glFFJ3BB0YiyWwR64l6qe4mcq#scrollTo=1W1mFBr3WZyk)
+
 
 
 
@@ -90,8 +95,6 @@ C'est la raison pour laquelle j'ai choisi de m'orienter dans le domaine du déve
 	- [ www.modelers.fr](#)  *(A remettre à jour>projet de jeu vidéo associatif en pause)*
 	- [ www.david-chardon.fr](#) *(à refondre complètement avec Django)* 
 	- serveur web pour accueillir mes projets/site/bots
-- 📊 **Classement Ultra-Dimensionnel :**  
-	Un projet de classement des grands nombres via **Jupyter Notebook** dans des espaces se repliant sur eux-mêmes.  
 - 🎥 **Python - De la vidéo à la 3D :**  
     Exploration des possibilités offertes par Python pour transformer des vidéos en modèles 3D interactifs.  
 - 🃏 **Fish's Legion :**  
