@@ -1,15 +1,15 @@
-# Data Cleansing
+# Formation Data Cleansing
 
 **Professeur :** Alain Cariou  
 **École :** EPSI  
 **Section :** Développeur Data-Science, Développeur IA et Machine Learning  
 **Date :** Janvier 2025  
 
----
-[← Retour à la base du wiki](https://asyhnes.github.io/mon_wiki/)
+[← Retour à la base du wiki](https://asyhnes.github.io/mon_wiki/)  
+[cours complet](Data_Science/Cours_data_cleasing)
+
 
 ---
-
 
 ## I. Qualité des données et Data Cleansing
 
@@ -24,80 +24,120 @@ Ces erreurs incluent :
 
 ---
 
-### Importance dans la gestion des données
-- **2019 :** 30 % des données d'entreprise étaient imprécises, engendrant des coûts significatifs.  
-  [Source](https://www.edq.com/blog/highlights-from-our-2019-global-data-management-research/)
-- Avantages du nettoyage des données :
-  - Mise en conformité légale (ex. RGPD)
-  - Réduction des coûts et optimisation de la productivité
-  - Amélioration de l'expérience client et de la rétention
-  - Meilleures prises de décisions stratégiques  
-
----
-
-### Types de problèmes fréquents
-- **Données non sécurisées :** mot de passe ou données bancaires en clair
-- **Données obsolètes :** client décédé, adresse non mise à jour
-- **Données incorrectes ou contradictoires :** formatage, syntaxe ou duplication
-- **Données manquantes**  
-
----
-
 ## II. Les étapes du Data Cleansing
 
-### Étapes générales
-1. **Identifier** les sources de données essentielles
-2. **Collecter** les données
-3. **Gérer** les doublons
-4. **Résoudre** les valeurs manquantes
-5. **Automatiser** et standardiser le nettoyage
-6. **Évaluer** et adapter le processus  
+### Étape 1 : Identifier les sources de données essentielles
+Avant de commencer le nettoyage, il est crucial de :  
+- Déterminer quelles données sont les plus utiles pour le projet.  
+- Tracer la **provenance des données** et identifier où se trouvent les erreurs les plus fréquentes.  
+
+Cela permet de mieux cibler les corrections nécessaires et de gagner du temps lors des étapes suivantes.
 
 ---
 
-### Outils de Data Cleansing
+### Étape 2 : Collecter les données
+Une fois les sources identifiées, procédez à la collecte des données :  
+- Vérifiez la qualité et la cohérence des données collectées.  
+- Assurez-vous que les différentes sources sont compatibles pour éviter des incohérences dès le départ.  
 
-#### Bibliothèques Python :
+L'objectif est de partir sur une base solide pour les étapes suivantes.
+
+---
+
+### Étape 3 : Gérer les doublons
+Les **doublons** peuvent apparaître lorsque les données proviennent de plusieurs sources. Pour les traiter :
+1. Identifiez les données dupliquées en vérifiant les valeurs répétées.  
+2. Conservez la version la plus récente ou la plus fiable.  
+
+Cela empêche de fausser les analyses et garantit une meilleure précision des résultats.
+
+---
+
+### Étape 4 : Résoudre les valeurs manquantes
+Les **valeurs vides ou manquantes** sont fréquentes. Plusieurs stratégies permettent de les traiter :  
+- **Supprimer** les lignes où des valeurs sont manquantes.  
+- **Compléter** les valeurs manquantes en utilisant des méthodes comme :
+  - Moyenne
+  - Médiane
+  - Valeur la plus fréquente
+  - Algorithmes (ex. k-nearest neighbors).  
+- **Étiqueter** les valeurs comme "manquantes" pour signaler leur absence.  
+
+L'objectif final est de garantir un dataset complet et cohérent.
+
+---
+
+### Étape 5 : Automatiser et standardiser le processus
+L'automatisation est essentielle pour garantir une cohérence dans le nettoyage des données :  
+- **Standardisez** les processus pour les rendre reproductibles.  
+- Déterminez :
+  - Les données les plus utilisées.
+  - La fréquence à laquelle le nettoyage doit être effectué (quotidien, hebdomadaire, mensuel).  
+  - Les responsables de la maintenance du processus.
+
+Cela permet un gain de temps considérable et évite des erreurs humaines répétées.
+
+---
+
+### Étape 6 : Évaluer et adapter le processus
+Le nettoyage des données est un processus itératif. À cette étape, il est important de :  
+- **Évaluer** l'efficacité du processus : 
+  - Quels sont les points positifs ?
+  - Quels aspects peuvent être améliorés ?
+- **Identifier** les problèmes récurrents et ajuster le processus en conséquence.  
+- **Communiquer** avec l'équipe pour partager les retours et les améliorations.
+
+Le but est de surveiller les données régulièrement pour anticiper et corriger les problèmes émergents.
+
+---
+
+## III. Les outils du Data Cleansing
+
+### Bibliothèques Python :
 - **Pandas**  
-  Manipulation et nettoyage des données. [Documentation Pandas](https://pandas.pydata.org/docs/index.html)
+  - Manipule et nettoie les datasets.  
+  - Documentation : [Pandas Docs](https://pandas.pydata.org/docs/index.html)  
 - **Pyjanitor**  
-  Extension de Pandas pour un nettoyage plus lisible. [Documentation Pyjanitor](https://pyjanitor-devs.github.io/pyjanitor/)
+  - Extension pour un nettoyage lisible et efficace.  
+  - Documentation : [Pyjanitor Docs](https://pyjanitor-devs.github.io/pyjanitor/)  
 
-#### Logiciels :
+### Logiciels :
 - **OpenRefine**  
-  Logiciel open-source pour nettoyer et structurer les données.  
-  [Télécharger OpenRefine](https://openrefine.org/download)  
+  - Nettoie et structure les données en CSV, XML, JSON, etc.  
+  - Téléchargement : [OpenRefine](https://openrefine.org/download)  
 
 ---
 
-## III. TP : Nettoyage de données
+## IV. TP : Nettoyage de données
 
 ### Étape 1 : Choix d’un dataset
-- Sélectionnez un dataset parmi ceux proposés :  
-  - [Airbnb Open Data](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
-  - [Netflix Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
-  *(ou un dataset validé par le professeur)*  
+Choisissez un dataset parmi les options suivantes ou proposez-en un à valider :
+- [Airbnb Open Data](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
+- [Netflix Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
 
 ### Étape 2 : Étude du dataset
-- Analysez le contenu et identifiez les erreurs courantes
-- Visualisez les problèmes sous forme de graphe  
+Analysez le dataset et identifiez :
+- Le sujet traité.
+- Les erreurs les plus courantes.
+- Les moyens de représenter ces problèmes (ex. graphes).  
 
 ### Étape 3 : Script avec Pandas
-- Écrivez un script pour nettoyer les données :
-  - Supprimez les doublons
-  - Gérez les valeurs manquantes
-  - Corrigez les erreurs de format  
+Rédigez un script Python qui :
+- Supprime les doublons.
+- Remplace ou étiquette les valeurs manquantes.
+- Corrige les erreurs de format.  
 
 ### Étape 4 : Script avec Pyjanitor
-- Reprenez le processus avec Pyjanitor et comparez avec Pandas.
+Refaites le nettoyage avec **Pyjanitor** et comparez-le avec Pandas :
+- Quels avantages ou inconvénients remarquez-vous ?
+- Le script peut-il être générique pour d'autres datasets ?
 
 ### Étape 5 : Utilisation d’OpenRefine
-- Appliquez le même processus de nettoyage qu'avec vos scripts
-- Comparez les résultats obtenus  
+Utilisez OpenRefine pour appliquer les mêmes étapes. Comparez les résultats avec ceux de vos scripts.
 
 ### Étape 6 : Présentation
 - Documentez vos recherches et résultats.
-- Présentez votre travail à vos collègues.
+- Partagez vos conclusions avec vos collègues.
 
 ---
 
@@ -108,5 +148,7 @@ Ces erreurs incluent :
 
 ---
 
+[← Retour à la base du wiki](https://asyhnes.github.io/mon_wiki/)
+
 **David Chardon**  
-Etudiant *Développeur Data-Science, IA et Machine Learning*  
+*Développeur Data-Science, IA et Machine Learning*  
