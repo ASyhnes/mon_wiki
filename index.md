@@ -80,6 +80,7 @@ C'est la raison pour laquelle j'ai choisi de m'orienter dans le domaine du déve
 ---
 
 ### 🐍 **Side Projects :**  
+
 - 🚀 **Création d'une App Django.**
 	- Comment bien présenter mes sides projects au format APP orientée POO
 - 🔗 **Blockchain et Solidity.**  
@@ -89,11 +90,14 @@ C'est la raison pour laquelle j'ai choisi de m'orienter dans le domaine du déve
 	-   **Projet Jarvis :**  
 		Un assistant **LLM** embarqué sur **Raspberry Pi portable** :  
 		Du **jouet intelligent** à l'**assistant personnel complet** ? 
+- 🤖 **Embedingde texte :** Rag. 
+	-   **Other Frequencies :**  
+		Pour aider mon équipe sur mon projet de jeux vidéo à suivre le scénario (très) complexe de notre univers, je suis en train de créer un chat-bot ayant été entrainé via rag sur l'ensemble des fiches scénaristiques du projet. 
 - 🌍 **Bot de trading sur Hyperliquid.**  
 	- explorer l'API de Hyperliquid pour faire un bot de trading automatiser et gérant un portefeuille avec un backtest efficace à 16% sur les 3 dernières années
 - 🌐 **Sites Web :**  
-	- [ www.modelers.fr](www.modelers.fr)  *(A remettre à jour>projet de jeu vidéo associatif en pause)*
-	- [ www.david-chardon.fr](www.david-chardon.fr) *(à refondre complètement avec Django)* 
+	- [www.modelers.fr](https://www.modelers.fr/galerie)  *(A remettre à jour>projet de jeu vidéo associatif en pause)*
+	- [ www.david-chardon.fr](http://www.david-chardon.fr) *(à refondre complètement avec Django)* 
 	- serveur web pour accueillir mes projets/site/bots
 - 🎥 **Python - De la vidéo à la 3D :**  
     Exploration des possibilités offertes par Python pour transformer des vidéos en modèles 3D interactifs.  
