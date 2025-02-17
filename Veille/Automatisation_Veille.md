@@ -55,3 +55,10 @@ _Un ensemble de chaînes complémentaires pour développer son esprit d'analyse 
 
 ---
 
+## 🧠 **VeilleIA
+### 🎯 **Objectif final :**
+
+...
+
+- 📚 [**Les 3 MODÈLES D'IA les PLUS PUISSANTS en DUEL**](Veille_IA/Les_3_MODÈLES_DIA)
+- 
